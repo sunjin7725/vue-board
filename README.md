@@ -1,4 +1,5 @@
 # vue-board
+### Seonjin`s first vue app
 
 ## Project setup
 ```
