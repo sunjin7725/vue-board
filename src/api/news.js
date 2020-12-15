@@ -1,7 +1,8 @@
 import axios from 'axios';
+import api_url from '../../config/api_url';
 
 function fetchNews(){
-    return axios.get('http://218.54.233.93:3000/news')
+    return axios.get(api_url.news_url)
 }
 
 export default {
