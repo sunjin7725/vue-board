@@ -16,4 +16,4 @@ export default new VueRouter({
             component: Notice
         }
     ]
-})
+});
